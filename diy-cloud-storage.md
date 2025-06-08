@@ -211,4 +211,3 @@ Accessible from anywhere via Tailscale, with user-level access control — and n
 * Add more friends with isolated folders
 * Use a domain name with Tailscale Funnel (if public sharing is needed)
 
-💬 Need more help? Ask your AI buddy 😉
